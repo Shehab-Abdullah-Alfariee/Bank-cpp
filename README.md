@@ -8,6 +8,7 @@ This console-based application allows you to manage bank clients by performing b
 🚀 Features
 
 ✅ Display client list
+
 ✅ Add new client
 ✅ Update client information
 ✅ Delete client
